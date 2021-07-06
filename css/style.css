@@ -11,13 +11,12 @@
     top: 0;
     left: 0;
 }
-.logo{
-    width:245px;
-}
 .nav-style{
     padding-top: 0px !important;
 }
 .logo-size{
+    max-width: 82px;
+    width:100%;
     padding-left:100px !important;
 }
 .nav-p{
@@ -76,4 +75,17 @@ body{
 .f-size{
     font-size: 12px;
     font-family: 'Poppins';
+}
+/* atart tooter */
+.i-style{
+    max-width: 430px ;
+    width: 100% ;
+    /* width:430px; */
+    border: none ;
+    background-color: #F6F7FB;
+}
+.ftr-btn-style{
+    max-width: 170px;
+    width: 100% ;
+    /* width:170px; */
 }
